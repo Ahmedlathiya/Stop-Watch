@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.set{
+    color: tomato;
+}
+
+
+.set1 h1{  
+    width: 100px;
+    border: none;
+    color: violet;
+    display: inline-block;
+}
+button{
+   
+    color: brown;
+    width: 10vw;
+    height: 5vh;
+    font-weight: bold;
+}
+
+#btn:active{
+background-color: white;
+color: #000;
+}
+
